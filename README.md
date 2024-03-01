@@ -1,4 +1,3 @@
-# AD-with-PS-Lab
 # PROJECTNAME
 
 ## Objective
