@@ -1,9 +1,8 @@
 # PROJECTNAME
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The primary objective of creating a home lab environment focusing on Active Directory with PowerShell automation is help develop a deep understanding of managing and securing Windows networks.  This project aims to simulate real-world corporate IT infrastructure scenarios, allowing for hands-on experience in configuring, automating, and securing directory services. By incorporating PowerShell scripting for automation and administrative tasks, the lab will serve as a platform to further my learning in cybersecurity.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
