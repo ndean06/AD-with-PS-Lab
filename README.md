@@ -19,6 +19,7 @@ The primary objective of creating a home lab environment focusing on Active Dire
 <br><strong>Remote Access and File Services Configuration:</strong>
 <br>-To set up and manage Remote Access Services and configure Windows File Servers to simulate remote working scenarios and data storage management
 
+## Topology
 
 
 ### Tools Used
