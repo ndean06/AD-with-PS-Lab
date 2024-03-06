@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Active Directory with PowerShell Automation Home Lab
 
 ## Objective
 
