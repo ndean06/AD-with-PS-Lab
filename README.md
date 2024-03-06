@@ -21,6 +21,7 @@ The primary objective of creating a home lab environment focusing on Active Dire
 
 ## Topology
 
+https://github.com/ndean06/AD-with-PS-Lab/blob/main/adps-images/adps-ref1.png
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
